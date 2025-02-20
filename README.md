@@ -9,4 +9,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/raes4k/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/raes4k/azure-network-protocols)
+  - [Understanding DNS In Azure](https://github.com/raes4k/intuition)
+
 
